@@ -1,0 +1,8 @@
+
+17.08.2016
+
+Ideas I have:
+	-> Adding private rooms for characters.
+	-> Adding needs for characters.
+	-> Adding furniture for characters to fulfill their needs.
+	
